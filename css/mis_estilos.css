@@ -1,0 +1,114 @@
+/*TAMAÑO DEL PARALLAX*/
+
+  #parallax_efectos_1
+    {
+    	padding-top: 0px;
+    	margin-top: 0px;
+      height: 550px;
+      margin-right: -70px;
+      
+    }
+        
+
+  #parallax_efectos_2
+    {
+      height: 550px;
+      
+    }
+#img_slider
+{
+	width: 100%;
+	line-height: 300px;
+}
+
+#card_img1
+{
+	width: 580px;
+	height: 360px;
+	border-radius: 20px 0px 20px 0px;
+	box-shadow: 5px 5px 10px #999;
+	background-color: #A7DBD8;
+	
+}
+
+
+
+#img_efectos
+{
+	border-radius: 25px;
+	box-shadow: 5px 5px 8px #999;
+}
+
+#pie_efectos
+{
+	padding: 10px;
+	margin-top: 0px;
+	background-color: #FA6900;
+}
+
+
+
+
+#card_video1
+{
+	border-radius: 20px 0px 20px 0px;
+	box-shadow: 5px 5px 10px #999;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	height: 400px;
+	background-color: #A7DBD8;
+}
+
+#cont_video1
+{	
+	border-radius: 25px;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 100%;
+	box-shadow: 5px 5px 10px #999;
+}
+
+#efectos_menu
+{
+	padding-top: 0px;
+	padding: 100px;
+	line-height: 100px;
+	
+	
+}
+#logo_efecto
+{
+	position: top;
+}
+#bloque_arriba
+{
+	width: 100%;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+#col_slider
+{
+	height: 640px;	
+
+}
+#fondo{
+  background-color: #E0E4CC;
+  margin-left: -80px;
+}
+#barra_efect
+{
+	background-color: #F38630;
+}
+#para_1
+{
+	width: 100%;
+	margin-left: 0px;
+	
+
+}
+#foto_p1
+{
+	height: 60%;
+}
