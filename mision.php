@@ -75,7 +75,7 @@
                           <div class="col l12 m12 s12">
                           <h2><FONT FACE="Bebas Neue">Estudio con Diversion</FONT></h2>
                               <div class="card-panel" class="responsive-img" id="card_video1">
-                                  <iframe width="560" height="315" src="img/Holguer_Andrade.mp4" frameborder="0" allowfullscreen id="cont_video1"></iframe>
+                                  <iframe width="560" height="315" src="video/video1.mp4" frameborder="0" allowfullscreen id="cont_video1"></iframe>
                               </div>
 
                           </div>
