@@ -1,6 +1,6 @@
 <!-- ESTRUCTURA SUBMENU PARA: NUESTRA INSTITUCION -->
 <ul id="institucion1" class="dropdown-content ">
-  <li><a href="mision.php" class="white-text center">MSION</a></li>
+  <li><a href="mision.php" class="white-text center">MISION</a></li>
   <li class="divider"></li>
   <li><a href="vision.php" class="white-text center">VISION</a></li>
   <li class="divider"></li>
@@ -10,7 +10,7 @@
 </ul>  
 
 <ul id="institucion2" class="dropdown-content dropdown-content-movil">
-  <li><a href="mision.php" class="black-text center">MSION</a></li>
+  <li><a href="mision.php" class="black-text center">MISION</a></li>
   <li class="divider"></li>
   <li><a href="vision.php" class="black-text center">VISION</a></li>
   <li class="divider"></li>
