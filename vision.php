@@ -120,17 +120,7 @@
                          
                       </div>
 
-                        <!--AQUI COMIENZA EL CARD DEL VIDEO-->
-                        <div class="row container">
-                          <div class="col l12 m12 s12">
-                          <h2><b></b></h2>
-                              <div class="card-panel" id="card_video1">
-                                  <video width="560" height="315" src="img/Holguer_Andrade.mp4"  type="video/mp4" controls="auto" frameborder="0" allowfullscreen id="cont_video1"></video>
-                              </div>
-
-                          </div>
-                        </div>
-                        <!--AQUI TERMINA EL CARD DEL VIDEO-->
+                        
 
 
                         <div class="row container">
