@@ -8,14 +8,14 @@
     
     <body>
       
-       
+       <?php include "php/menu_principal.php" ?>
        <!-- SLIDE PRINCIPAL --> 
 
        <div class="container" id="bloque_arriba">
           <div class="row">
             <div class="col l12 m12 s12" id="col_slider">
-                  <?php include "php/menu_principal.php" ?>
-                                 <div class="slider">
+                  
+                                 <div class="slider fullscreen">
                                 
                             <ul class="slides">
                              
