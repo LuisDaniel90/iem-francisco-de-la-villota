@@ -73,6 +73,7 @@
         <li><a href="#" class="center dropdown-button" data-activates="academia1"><i class="left icon-academia flow-text"></i>Academia</a></li>
         <li><a href="#" class="center dropdown-button" data-activates="gestion1"><i class="left icon-gestion flow-text"></i>Áreas de Gestion</a></li>
       </ul>
+      </div>  </div>
       
 <!-- ESTRUCTURA MENU GENERAL MOVIL -->
        <ul class="side-nav collapsible" id="mobile-demo" data-collapsible="accordion">
@@ -120,6 +121,5 @@
         </li>
         
       </ul>
-    </div>
+   
   </nav>
-</div>
