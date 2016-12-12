@@ -194,7 +194,7 @@
                     </div>
                     <!--AQUI CIERRA EL BLOQUE CENTRAL-->
               <div class="parallax-container" id="parallax_efectos_2"><!--AQUI COMIENZA EL PARALLAX 2-->
-                <div class="parallax"><img src="img/parallax.jpg"></div>
+                <div class="parallax"><img src="img/IMG_1849.jpg"></div>
           </div><!--AQUI TERMINA EL PARALLAX 2-->
 
 <!-- ************************************************************ -->    
